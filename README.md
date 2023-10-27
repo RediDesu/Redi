@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RediDesu 
+- 👋 Hi, I’m Redi
 
 <!---
 RediDesu/RediDesu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
